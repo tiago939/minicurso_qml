@@ -16,7 +16,7 @@ https://colab.research.google.com/drive/1GYfMdpBQbCjxGa4LgtVDV9YobQWeEsDf?usp=sh
 ## CODE 6: VQA
 https://colab.research.google.com/drive/1yfz8M026XOn4LoCt-UBxtXXLroNnQan5?usp=sharing
 
-##CODE 7: Treinando com amostragem
+## CODE 7: Treinando com amostragem
 https://colab.research.google.com/drive/1Z5ct5E1HXedCpVrBH178_PHx9yDPsNyb?usp=sharing
 
 
